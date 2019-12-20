@@ -2,4 +2,4 @@
 
 main.remove()
 let newHeader = document.createElement("h1");
-document.body.a
+document.body.appendChild(newHeader)
